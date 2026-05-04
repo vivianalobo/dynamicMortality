@@ -1,1 +1,1 @@
-Bayesian Mortality Graduation via Dynamic Linear Model
+**Bayesian Mortality Graduation via Dynamic Linear Models**
